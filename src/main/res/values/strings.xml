@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Make Money Ideas 2020</string>
+
+    <string name="navigation_open">Drawer Open</string>
+    <string name="navigation_close">Drawer Close</string>
+
+    ///--- navigation item////
+    <string name="item1">Start a blog </string>
+    <string name="item2">Open your own online shop</string>
+    <string name="item3">Start A Youtube Channel</string>
+    <string name="item4">Create an online course (Udemy)</string>
+    <string name="item5">Selling stock photos</string>
+    <string name="item6">Real estate, stocks, investments</string>
+    <string name="item7">Affiliate marketing</string>
+    <string name="item8">DropShipping</string>
+    <string name="item9">Earn residual income from renting</string>
+    <string name="item10">Creating an AudioBook</string>
+    <string name="item11">Earn money with Facebook</string>
+    <string name="item12">Offer advertising space</string>
+    <string name="item13">Get money for shopping</string>
+    <string name="item14">Program apps</string>
+    <string name="item15">Cryptocurrencies</string>
+    <string name="item16">Network marketing</string>
+    <string name="item17">Solar systems</string>
+    <string name="item18">Niche sites on the Internet</string>
+    <string name="item19">Review videos</string>
+    <string name="item20">Application Rating</string>
+    <string name="item21">Privacy Policy</string>
+    <string name="item22">Terms And Condition</string>
+    <string name="item23">About Application</string>
+    <string name="item_name">Item Name</string>
+    <string name="hello">Hello</string>
+
+
+
+
+
+    <string name="start_a_blog_the_classic_among_passive_income_methods">START A BLOG - THE CLASSIC AMONG PASSIVE INCOME METHODS</string>
+
+
+</resources>
